@@ -1,0 +1,15 @@
+# Ignora dependências
+node_modules/
+
+# Ignora variáveis sensíveis
+.env
+
+# Ignora variáveis logs
+*.log
+
+# Ignora arquivos temporários
+*.tmp
+.DS_Store
+
+# Ignora arquivos de debug
+npm-debug.log

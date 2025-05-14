@@ -1,0 +1,16 @@
+# Ignora aquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Evita subir docker artifacts loais
+*.env
+*.log
+
+# Editor configs comuns
+.idea/
+.vscode/
+*.swp
+
+# Backup e arquivos temporários
+*.bak
+*.tmp

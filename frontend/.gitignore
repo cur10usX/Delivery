@@ -1,0 +1,13 @@
+# Ignora dependências
+node_modules/
+
+# Ignora arquivos de build
+dist/
+build/
+
+# Ignora variáveis sensíveis
+.env
+
+# Ignora caches do editor
+.vscode/
+.DS_Store
